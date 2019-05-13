@@ -1,0 +1,22 @@
+{
+  "name": "bbs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "express": "^4.16.4",
+    "nedb": "^1.8.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "superagent": "^5.0.5",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
