@@ -3,3 +3,7 @@
 1. BBS
     - chaper 5-5. 리액트 + 익스프레스로 게시판 만들기
     - React + Express + NeDB
+2. Chat
+    - chapter 5-6. 실시간 채팅 만들기
+    - React + Express + Socket.IO
+    
