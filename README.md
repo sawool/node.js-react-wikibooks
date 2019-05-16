@@ -2,8 +2,10 @@
 ### wikibook (위키북스)
 1. BBS
     - chaper 5-5. 게시판
-    - React + Express + NeDB
+    - React + Express + NeDB + SuperAgent
 2. Chat
     - chapter 5-6. 실시간 채팅
     - React + Express + Socket.IO
-    
+3. Wiki
+    - chapter 6-1. 위키시스템
+    - React + Express + NeDB + SuperAgent + PEG.js
